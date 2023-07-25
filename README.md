@@ -4,8 +4,8 @@ Enhancements to original SOFS8 by James Finnie AKA jfinnie AKA bobof of AVS Foru
 Added features:
 1. Toggle WRGB/RGB
 2. Toggle SDR/HDR
-3. Define gamma
-4. Define peak white in nits
+3. Define gamma for SDR
+4. Define peak white in nits for SDR
 
 Todo (Just need to port over from my separate patch gen script already written):
 1. Limit peak white in HDR to something below 10,000 nits
