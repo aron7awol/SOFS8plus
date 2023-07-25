@@ -1,5 +1,5 @@
 # SOFS8plus
-Enhancements to original SOFS8 by James Finnie AKA jfinnie AKA bobof of AVS Forum
+Enhancements to original SOFS8 by James Finnie AKA jfinnie AKA bobof of AVS Forum (https://www.avsforum.com/threads/lg-oleds-3d-lut-profiling-using-lightspace-thread.3043520/post-61434336)
 
 Added features:
 1. Toggle WRGB/RGB
