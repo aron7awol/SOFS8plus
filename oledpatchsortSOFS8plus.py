@@ -4,7 +4,7 @@
 #(c)2022 Auvien Limited, all rights reserved
 #Thanks to AVS @PencilGeek for some range mods
 #version 0.6
-https://www.avsforum.com/threads/lg-oleds-3d-lut-profiling-using-lightspace-thread.3043520/page-87#post-61434336
+#https://www.avsforum.com/threads/lg-oleds-3d-lut-profiling-using-lightspace-thread.3043520/page-87#post-61434336
 
 import sys
 import csv
